@@ -1,0 +1,22 @@
+Data Set
+https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts-54e35
+
+User Personas
+
+Student doing a research project on drugs.
+
+  Student at a high school has chosen to do a report on the effect that drugs have had on his state for his final project. The student first wanted to see the direct impact that drugs had on the people in his state, so he wanted to find information on how many people have died due to overdosing in his state. During his research he found the only thing he could find was data in large spreadsheets that was hard to read. Student wishes he could find something a bit more comprehensive and easier to read. 
+
+Law enforcement showing people the danger of drugs.
+
+  A police officer must make a presentation to show the dangers of drug use to a group of high schoolers. The officer has tons of     information on the topics of drug overdoses in his city, but he is trying to look for data that spans a national level. Not only that, but the officer does not want to show the students boring excel spreadsheets. The officer wants there to be an easy to understand infographic that allows for users to easily filter through states. 
+
+
+
+User Need and Requirements
+-Show users a simple to understand infographic of the drug overdose death count using data from data.gov
+-Simple way to filter through and highlight certain information, like state of choice and drug involved in overdose, year, etc.
+-Easy to use, clutter free navigation and drill down for infographic
+- Color scheme that is color blind friendly and easy on the eyes.
+
+
